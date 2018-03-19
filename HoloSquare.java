@@ -16,6 +16,7 @@ public class HoloSquare
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter the Number of lines :- ");
 		int n = sc.nextInt();
+		sc.close();
 		
 		for(int i = 0; i < n; i++)
 		{
