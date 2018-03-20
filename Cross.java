@@ -3,7 +3,7 @@ package org.patern.Stars;
 /*
  
    *   *
- 	* *
+    * *
      *
     * *
    *   *
